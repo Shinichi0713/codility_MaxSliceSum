@@ -28,3 +28,5 @@ the result will be an integer within the range [−2,147,483,648..2,147,483,647]
 
 slice(P,Q)はトータル<br>
 スライスを用いて合計を計算する<br>
+
+![image](https://github.com/Shinichi0713/codility_MaxSliceSum/assets/61480734/1f2873c4-bd53-4f72-8874-d62b1ccb2a91)
